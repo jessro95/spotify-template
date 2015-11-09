@@ -1,0 +1,29 @@
+body {
+  font-family:"Comic Sans MS", cursive, sans-serif
+}
+
+#logo {
+	  width: 50px;
+}
+
+nav {
+	background-color: #0DB771;
+	padding:5px;
+	padding-bottom: 10px;
+}
+div.NAME {
+	padding-left: 0px;
+	font-weight: bold;
+	font-size: 1.7em;
+
+}
+
+.searching{
+	float: left;
+	display: inline;
+}
+
+img{
+	max-width:50px;
+	border-radius: 50%;
+}
